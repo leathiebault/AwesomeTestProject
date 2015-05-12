@@ -1,39 +1,13 @@
 # AwesomeTestProject
 
-# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
+    this is some code
 
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
+## The code is strong with this one
+That's what she said...
 
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject
+### I can swing my sword
+My diamond sword, sword  
+You cannot afford, ford
 
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject# AwesomeTestProject# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-# AwesomeTestProject
-
+## Moi j'edite des trucs comme ca a l'arrache
+Du coup ca risque de foutre un peu la merde mais bon, c'est le jeu quoi
