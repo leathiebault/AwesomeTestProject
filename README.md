@@ -10,4 +10,4 @@ My diamond sword, sword
 You cannot afford, ford
 
 ## Moi j'edite des trucs comme ca a l'arrache
-Du coup ca risque de foutre un peu la merde mais bon
+Du coup ca risque de foutre un peu la merde mais bon, c'est le jeu quoi
